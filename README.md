@@ -1,4 +1,4 @@
-### <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Douglas Gonçalves.
+### <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="25px">, Eu sou o Douglas Gonçalves.
 
 <!--
 - 🔭 I’m currently working on ...
