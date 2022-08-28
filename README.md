@@ -22,6 +22,7 @@
 ## 🛠 &nbsp;Tecnologias
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=9A4F96)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
